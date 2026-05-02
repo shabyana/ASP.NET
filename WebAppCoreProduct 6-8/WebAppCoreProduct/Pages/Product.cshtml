@@ -1,0 +1,24 @@
+﻿@page "{handler?}"
+@model WebAppCoreProduct.Pages.ProductModel
+@{
+	<form method="post">
+		<div class="form-group">
+			<label asp-for="Product.Name"></label>
+			<input class="form-control" asp-for="Product.Name" />
+			<span asp-validation-for="Product.Name" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Product.Price"></label>
+			<input class="form-control" asp-for="Product.Price" />
+			<span asp-validation-for="Product.Price" class="text-danger"></span>
+		</div>
+		<div asp-validation-summary="All" class="text-danger"></div>
+
+		<input type="submit" asp-page-handler="" value="Получить скидку" /><br />
+		<label for="discont">Введите свою скидку(%)</label><br />
+		<input type="number" name="discont" /><br />
+		<input type="submit" asp-page-handler="Discont" value="С учетом своей скидки" /><br />
+		<input type="submit" asp-page-handler="Tax" value="С учетом налога" /><br />
+	</form>
+	<h3>@Model.MessageRezult</h3>
+}

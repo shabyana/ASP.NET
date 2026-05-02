@@ -1,0 +1,60 @@
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\bin\Debug\net8.0\appsettings.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\bin\Debug\net8.0\WebAppCoreProduct.staticwebassets.endpoints.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\bin\Debug\net8.0\WebAppCoreProduct.exe
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\bin\Debug\net8.0\WebAppCoreProduct.deps.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\bin\Debug\net8.0\WebAppCoreProduct.runtimeconfig.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\bin\Debug\net8.0\WebAppCoreProduct.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\bin\Debug\net8.0\WebAppCoreProduct.pdb
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.AssemblyInfoInputs.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.AssemblyInfo.cs
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.csproj.CoreCompileInputs.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.RazorAssemblyInfo.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.RazorAssemblyInfo.cs
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\scopedcss\bundle\WebAppCoreProduct.styles.css
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\refint\WebAppCoreProduct.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.pdb
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.genruntimeconfig.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct\WebAppCoreProduct\obj\Debug\net8.0\ref\WebAppCoreProduct.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\bin\Debug\net8.0\appsettings.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\bin\Debug\net8.0\WebAppCoreProduct.staticwebassets.endpoints.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\bin\Debug\net8.0\WebAppCoreProduct.exe
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\bin\Debug\net8.0\WebAppCoreProduct.deps.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\bin\Debug\net8.0\WebAppCoreProduct.runtimeconfig.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\bin\Debug\net8.0\WebAppCoreProduct.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\bin\Debug\net8.0\WebAppCoreProduct.pdb
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.AssemblyInfoInputs.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.AssemblyInfo.cs
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.csproj.CoreCompileInputs.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.RazorAssemblyInfo.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.RazorAssemblyInfo.cs
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\scopedcss\bundle\WebAppCoreProduct.styles.css
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\refint\WebAppCoreProduct.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.pdb
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\WebAppCoreProduct.genruntimeconfig.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\ASP.NET\WebAppCoreProduct 6-8\WebAppCoreProduct\obj\Debug\net8.0\ref\WebAppCoreProduct.dll
